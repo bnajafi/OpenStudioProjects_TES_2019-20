@@ -1,0 +1,42 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {98d37d29-28e8-4dff-b5b1-da94b83b41af} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {98d37d29-28e8-4dff-b5b1-da94b83b41af} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {98d37d29-28e8-4dff-b5b1-da94b83b41af} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {98d37d29-28e8-4dff-b5b1-da94b83b41af} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {61df6f1a-12b3-4465-89fb-30dc281b48d9} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {61df6f1a-12b3-4465-89fb-30dc281b48d9} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {61df6f1a-12b3-4465-89fb-30dc281b48d9} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {61df6f1a-12b3-4465-89fb-30dc281b48d9} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {22710e5a-1db2-489a-a67b-a76e2d5099c4} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {22710e5a-1db2-489a-a67b-a76e2d5099c4} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {22710e5a-1db2-489a-a67b-a76e2d5099c4} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {22710e5a-1db2-489a-a67b-a76e2d5099c4} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {dcbff938-90cc-4c14-af4b-eab12321c90e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {dcbff938-90cc-4c14-af4b-eab12321c90e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {dcbff938-90cc-4c14-af4b-eab12321c90e} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {dcbff938-90cc-4c14-af4b-eab12321c90e} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {7bb55267-8770-48ef-aaf3-5aa7fa49168b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {7bb55267-8770-48ef-aaf3-5aa7fa49168b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {7bb55267-8770-48ef-aaf3-5aa7fa49168b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {7bb55267-8770-48ef-aaf3-5aa7fa49168b} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 0000000CC8DEF530
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/X1 YOGA/OpenStudio/Measures
+[openstudio.EpwFile] <0> Successive data points (1991-Jan-31 to 1996-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/X1 YOGA/AppData/Local/Temp/OpenStudio.SL7532/resources/files/ITA_Milan.160660_IWEC.epw'. Data will be treated as typical (TMY)
+[saveModel] <-2> Saved model to 'C:/Users/X1 YOGA/AppData/Local/Temp/OpenStudio.SL7532/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/X1 YOGA/AppData/Local/Temp/OpenStudio.SL7532/resources to D:/1. PoliMi Study/[1.1] Technical Environmental Systems/5 Presentattion/Submission/Upload/Group T5 - Base Case - Liu - Tran - Zhao - Yu
+[copyDir] <-1> copyDir 'C:/Users/X1 YOGA/AppData/Local/Temp/OpenStudio.SL7532/resources' to 'D:/1. PoliMi Study/[1.1] Technical Environmental Systems/5 Presentattion/Submission/Upload/Group T5 - Base Case - Liu - Tran - Zhao - Yu'
+[copyDir] <-1> Creating directory named = 'Group T5 - Base Case - Liu - Tran - Zhao - Yu' in parentDstDir = 'D:/1. PoliMi Study/[1.1] Technical Environmental Systems/5 Presentattion/Submission/Upload'
+[synchDirStructures] <-1> Synching destination 'D:/1. PoliMi Study/[1.1] Technical Environmental Systems/5 Presentattion/Submission/Upload/Group T5 - Base Case - Liu - Tran - Zhao - Yu' with source 'C:/Users/X1 YOGA/AppData/Local/Temp/OpenStudio.SL7532/resources'
+[copyDir] <-1> copyDir 'C:/Users/X1 YOGA/AppData/Local/Temp/OpenStudio.SL7532/resources/files' to 'D:/1. PoliMi Study/[1.1] Technical Environmental Systems/5 Presentattion/Submission/Upload/Group T5 - Base Case - Liu - Tran - Zhao - Yu/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'D:/1. PoliMi Study/[1.1] Technical Environmental Systems/5 Presentattion/Submission/Upload/Group T5 - Base Case - Liu - Tran - Zhao - Yu'
+[synchDirStructures] <-1> Synching destination 'D:/1. PoliMi Study/[1.1] Technical Environmental Systems/5 Presentattion/Submission/Upload/Group T5 - Base Case - Liu - Tran - Zhao - Yu/files' with source 'C:/Users/X1 YOGA/AppData/Local/Temp/OpenStudio.SL7532/resources/files'
