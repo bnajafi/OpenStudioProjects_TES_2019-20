@@ -1,0 +1,151 @@
+  Processing Data Dictionary -- Complete
+  Maximum number of Alpha Args=        4500
+  Maximum number of Numeric Args=       21040
+  Number of Object Definitions=         765
+  Number of Section Definitions=           2
+  Total Number of Alpha Fields=       18615
+  Total Number of Numeric Fields=       39891
+  Total Number of Fields=       58506
+  Processing Input Data File -- Start
+  Echo of input lines is off. May be activated by setting the environmental variable DISPLAYINPUTINAUDIT=YES
+   ** Warning ** IP: IDF line~1013 Object=LIGHTS, name=189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS 1, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~1114 Object=LIGHTS, name=189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS 1, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~1126 Object=LIGHTS, name=189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS 2, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~1138 Object=LIGHTS, name=189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS 3, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~1150 Object=LIGHTS, name=189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS 4, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~1823 Object=LIGHTS, name=189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS 2, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~1835 Object=LIGHTS, name=189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS 5, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~1847 Object=LIGHTS, name=189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS 6, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~1859 Object=LIGHTS, name=189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS 7, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~1871 Object=LIGHTS, name=189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS 8, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~4805 Object=LIGHTS, name=189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+   ** Warning ** IP: IDF line~4859 Object=LIGHTS, name=189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS, entered with less than minimum number of fields.
+   **   ~~~   ** Attempting fill to minimum.
+   **   Add   ** 1.00000000000000   ! field=>Fraction Replaceable
+  Processing Input Data File -- Complete
+  Maximum number of Alpha IDF Args=          29
+  Maximum number of Numeric IDF Args=          31
+  Number of IDF "Lines"=         456
+  Number of Defaulted Fields=         348
+  Number of Fields with Defaults=         900
+  Number of Autosized Fields=           0
+  Number of Autosizable Fields =          16
+  Number of Autocalculated Fields=         160
+  Number of Autocalculatable Fields =         160
+ Getting object=OUTPUT:SQLITE
+ Getting object=PROGRAMCONTROL
+ Getting object=VERSION
+ Getting object=SIMULATIONCONTROL
+ Getting object=OUTPUT:VARIABLEDICTIONARY
+ Getting object=DESIGNSPECIFICATION:OUTDOORAIR
+ Getting object=SIZING:PARAMETERS
+ Getting object=OUTPUT:TABLE:SUMMARYREPORTS
+ Getting object=OUTPUT:VARIABLE
+ Getting object=RUNPERIOD
+ Getting object=SITE:LOCATION
+ Getting object=SCHEDULE:COMPACT
+  Processing Schedule Input -- Start
+ Getting object=SCHEDULETYPELIMITS
+ Getting object=SCHEDULE:DAY:INTERVAL
+ Getting object=SCHEDULE:WEEK:DAILY
+ Getting object=SCHEDULE:YEAR
+ Getting object=SCHEDULE:CONSTANT
+  Processing Schedule Input -- Complete
+ Getting object=BUILDING
+ Getting object=MATERIAL
+ Getting object=MATERIAL:NOMASS
+ Getting object=MATERIAL:AIRGAP
+ Getting object=WINDOWMATERIAL:GLAZING
+ Getting object=CONSTRUCTION
+ Getting object=ZONE
+ Getting object=ZONELIST
+ Getting object=GLOBALGEOMETRYRULES
+ Getting object=BUILDINGSURFACE:DETAILED
+ Getting object=FENESTRATIONSURFACE:DETAILED
+ Getting object=SHADING:ZONE:DETAILED
+ Getting object=INTERNALMASS
+ Getting object=PEOPLE
+ Getting object=LIGHTS
+ Getting object=ELECTRICEQUIPMENT
+ Getting object=ZONEINFILTRATION:DESIGNFLOWRATE
+ Getting object=ZONEVENTILATION:DESIGNFLOWRATE
+ Getting object=ZONECONTROL:THERMOSTAT
+ Getting object=THERMOSTATSETPOINT:DUALSETPOINT
+ Getting object=ZONEHVAC:EQUIPMENTCONNECTIONS
+ Getting object=ZONEHVAC:EQUIPMENTLIST
+ Getting object=ZONEHVAC:IDEALLOADSAIRSYSTEM
+ Getting object=OUTPUT:METER
+ Getting object=LIFECYCLECOST:PARAMETERS
+ Getting object=LIFECYCLECOST:NONRECURRINGCOST
+ Getting object=LIFECYCLECOST:USEPRICEESCALATION
+ Getting object=OUTPUT:TABLE:MONTHLY
+ Getting object=OUTPUTCONTROL:TABLE:STYLE
+ MonthlyInputCount=           8
+ sizeMonthlyInput=          25
+ MonthlyFieldSetInputCount=          95
+ sizeMonthlyFieldSetInput=         100
+ MonthlyTablesCount=           6
+ MonthlyColumnsCount=          82
+ sizeReportName=         100
+ numReportName=          12
+ sizeSubTable=         100
+ numSubTable=          56
+ sizeColumnTag=         400
+ numColumnTag=         342
+ sizeTableEntry=        1600
+ numTableEntry=        1483
+ sizeCompSizeTableEntry=           0
+ numCompSizeTableEntry=           0
+ NumOfRVariable=        7392
+ NumOfRVariable(Total)=        7393
+ NumOfRVariable(Actual)=          60
+ NumOfRVariable(Summed)=          50
+ NumOfRVariable(Meter)=          50
+ NumOfIVariable=         463
+ NumOfIVariable(Total)=         463
+ NumOfIVariable(Actual)=           0
+ NumOfIVariable(Summed)=           0
+ MaxRVariable=        1000
+ MaxIVariable=          10
+ NumEnergyMeters=          57
+ NumVarMeterArrays=          50
+ maxUniqueKeyCount=        1500
+ maxNumberOfFigures=          19
+ MAXHCArrayBounds=          10
+ MaxVerticesPerSurface=           4
+ NumReportList=         500
+ InstMeterCacheSize=        1000
+ ClippingAlgorithm=SutherlandHodgman
+ MonthlyFieldSetInputCount=          95
+ NumConsideredOutputVariables=          53
+ MaxConsideredOutputVariables=          53
+ numActuatorsUsed=           0
+ numEMSActuatorsAvailable=           0
+ maxEMSActuatorsAvailable=           0
+ numInternalVariablesUsed=           0
+ numEMSInternalVarsAvailable=           0
+ maxEMSInternalVarsAvailable=           0
+ NumOfNodeConnections=          16
+ MaxNumOfNodeConnections=        1000
